@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApplication_Test.Model
 {
+    [Table ("employee")]
     public class Employee
     {
         [Key]

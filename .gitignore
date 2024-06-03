@@ -235,3 +235,5 @@ _Pvt_Extensions
 src/.vs/Lorni/v17/.suo
 *.dll
 /Digital.API/Storage/wtf-producao-ibpf.josn
+/WebApplication_Test/bin
+/WebApplication_Test/obj

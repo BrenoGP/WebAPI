@@ -9,9 +9,6 @@ namespace WebApplication_Test.Infra
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseNpgsql(
-            "Server=localhost;" +
-            "Port=5432; Database=employee_sample" +
-            "User Id=postgres;" +
-            "Password=123;");
+            "Server=localhost;Port=5432;Database=postgres;User Id=postgres;Password=918691;");
     }
 }
