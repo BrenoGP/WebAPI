@@ -30,3 +30,4 @@ C:\Users\BRENO\OneDrive\Área de Trabalho\IDLES E EXERCICIOS\NET\WebApplication_
 C:\Users\BRENO\OneDrive\Área de Trabalho\IDLES E EXERCICIOS\NET\WebApplication_Test\WebApplication_Test\obj\Debug\net8.0\WebApplication_Test.pdb
 C:\Users\BRENO\OneDrive\Área de Trabalho\IDLES E EXERCICIOS\NET\WebApplication_Test\WebApplication_Test\obj\Debug\net8.0\WebApplication_Test.genruntimeconfig.cache
 C:\Users\BRENO\OneDrive\Área de Trabalho\IDLES E EXERCICIOS\NET\WebApplication_Test\WebApplication_Test\obj\Debug\net8.0\ref\WebApplication_Test.dll
+C:\Users\BRENO\OneDrive\Área de Trabalho\IDLES E EXERCICIOS\NET\WebApplication_Test\WebApplication_Test\obj\Debug\net8.0\WebApplication_Test.sourcelink.json
